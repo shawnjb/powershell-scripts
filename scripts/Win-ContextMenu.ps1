@@ -1,3 +1,6 @@
+# Interchangable Right-click Shell Menu
+# (c) 2023, Shawn J. Bragdon
+
 $regPath = 'HKCU:\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}'
 $regItem = 'InprocServer32'
 
